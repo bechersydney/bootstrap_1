@@ -1,0 +1,16 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.height {
+  min-height: 100vh;
+}
+.height-80 {
+  min-height: 80vh;
+}
+.title-underline {
+  width: 250px;
+  height: 5px;
+}
+.about-img {
+  background:  url("../assets/images/p1.jpeg") no-repeat cover;
+}
